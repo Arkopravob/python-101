@@ -14,3 +14,6 @@ print(names)
 #add item in last in the list
 names.append("ram")
 print(names)
+
+#insert element in position list
+
