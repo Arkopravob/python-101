@@ -12,4 +12,6 @@ x = ["geeks", "for", "geeks"]
 print(type(x))
 x = ("geeks", "for", "geeks")
 print(type(x))
+a = True
+print(type(a))
 

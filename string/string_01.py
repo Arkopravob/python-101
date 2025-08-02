@@ -10,3 +10,6 @@ print(greeting + " " + name)
 s ="abcd"
 print(len(s))
 print(s[1])
+#slicing
+print(s[1:4])
+
