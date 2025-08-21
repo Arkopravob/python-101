@@ -11,3 +11,13 @@ for i in range(len(a)):
 #2nd way direct value
 for i in a:
     print(i)
+
+"""list method"""
+#append
+
+a.append(20)
+print(a)
+
+#insert
+a.insert(4,11)
+print(a)
